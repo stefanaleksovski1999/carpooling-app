@@ -1,0 +1,177 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "6b57d12e018c64352e202f8ef3bf7f431f76d935"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "8580dec824bbdb6ce24d04d3aaf360776339f0a7"
+    },
+    {
+      "path": "assets/images/app_color_icon.png",
+      "sha1": "7a90afe81d1cc1e641605495baed0f197a2d7d16"
+    },
+    {
+      "path": "assets/images/auth.png",
+      "sha1": "2b243b31ea4229336e898562626cea64a7810bdf"
+    },
+    {
+      "path": "assets/images/card_bg.png",
+      "sha1": "5124a8cd8158e61c640b9023a82108ae06bd95cc"
+    },
+    {
+      "path": "assets/images/confirm_pooling.png",
+      "sha1": "e56b1b16271c71a6542aae9ad6891b8c5d39a0fb"
+    },
+    {
+      "path": "assets/images/customer_support.png",
+      "sha1": "70cd4c97d8143b21eb0c750caae4ae91491b026c"
+    },
+    {
+      "path": "assets/images/empty_ride.png",
+      "sha1": "1091741c0658543e97034c26f067492226ab35c0"
+    },
+    {
+      "path": "assets/images/icons/car.png",
+      "sha1": "f5316ae50608b3db0bead6518a4983dc6ba3e22c"
+    },
+    {
+      "path": "assets/images/icons/empty.png",
+      "sha1": "6c233913620f7af5c20713d2d3cddc78dcd4fc93"
+    },
+    {
+      "path": "assets/images/icons/empty_noty.png",
+      "sha1": "16df2f74b5897d2dce5055fe8b2265d269ae2bc5"
+    },
+    {
+      "path": "assets/images/icons/marker.png",
+      "sha1": "4c9088f5c559d617124bf06f683b73c45a5dfc4d"
+    },
+    {
+      "path": "assets/images/icons/success.png",
+      "sha1": "13cd9020f9738a719716f2603dec1072de046fbf"
+    },
+    {
+      "path": "assets/images/onboarding/onboarding1.png",
+      "sha1": "f72a485e025aec2793102b4aafda907a5be81834"
+    },
+    {
+      "path": "assets/images/onboarding/onboarding2.png",
+      "sha1": "a39cf04a2ea6a9e79fa70c94ea7670c82782917f"
+    },
+    {
+      "path": "assets/images/onboarding/onboarding3.png",
+      "sha1": "2920b6f5fbe762ed2f7fd7018796abf9a3982362"
+    },
+    {
+      "path": "assets/images/payment/credit_card.png",
+      "sha1": "1a76bf7e9706755f41841b1b4556240c722d8588"
+    },
+    {
+      "path": "assets/images/payment/google_pay.png",
+      "sha1": "cd8a4e2b7f3f71e09539dfe9d817933b2402ef6f"
+    },
+    {
+      "path": "assets/images/payment/paypal.png",
+      "sha1": "239495c5184ab42d7dc2c9360ff644dcd85c12c9"
+    },
+    {
+      "path": "assets/images/payment/visa.png",
+      "sha1": "435cead61c3e22e4602db722b4003c35afeac0c9"
+    },
+    {
+      "path": "assets/images/rating.png",
+      "sha1": "09f68ee169923b994e22469ab4a2e37e6579a6a5"
+    },
+    {
+      "path": "assets/images/ride_end.png",
+      "sha1": "8f5af4a2a4613a4825ed7e8ee1f0c7800b52786a"
+    },
+    {
+      "path": "assets/images/user/user1.jpeg",
+      "sha1": "cf194a90e7231cf1b8618e812ffd8c3541bbcd7c"
+    },
+    {
+      "path": "assets/images/user/user10.png",
+      "sha1": "9cd38f17cfa88c51fffcc77534f60a4cdfa4ab5b"
+    },
+    {
+      "path": "assets/images/user/user11.png",
+      "sha1": "7de4c92b734327755ed7976f9070acfb1ae544af"
+    },
+    {
+      "path": "assets/images/user/user12.png",
+      "sha1": "aeaf9a73721b3c25ae446c04d4de73461a916f0a"
+    },
+    {
+      "path": "assets/images/user/user13.png",
+      "sha1": "d0f6ce2287f8d3742fa396f184df79c14ac6a4a0"
+    },
+    {
+      "path": "assets/images/user/user14.png",
+      "sha1": "ff0e5256990d8a5a7626bad7091c82fdd5f52e2e"
+    },
+    {
+      "path": "assets/images/user/user15.png",
+      "sha1": "92efa3261b01460dacddb958526d3fa69265d737"
+    },
+    {
+      "path": "assets/images/user/user16.png",
+      "sha1": "23f5cd19160a82a7844a666ef10999cd97a2359d"
+    },
+    {
+      "path": "assets/images/user/user17.png",
+      "sha1": "9f5395a702934831da7d598870b726350fda2715"
+    },
+    {
+      "path": "assets/images/user/user2.png",
+      "sha1": "732f460610b5c2686cb724db5633abfa9986e8ba"
+    },
+    {
+      "path": "assets/images/user/user3.png",
+      "sha1": "6f71609c2ef16f036ce9478a8bd61baefeb81bf9"
+    },
+    {
+      "path": "assets/images/user/user4.png",
+      "sha1": "6777621fddc13e14f8f7cdc0feaa14a1ecdfddc3"
+    },
+    {
+      "path": "assets/images/user/user5.png",
+      "sha1": "4eb664999f931fe152d6a428ef17a9776c6dd0ae"
+    },
+    {
+      "path": "assets/images/user/user6.png",
+      "sha1": "11f52cabd1797fe1424a5bf4a300cc63283773ca"
+    },
+    {
+      "path": "assets/images/user/user7.png",
+      "sha1": "ab40cedfb0e7eba3f9b75c6e439752923d78a490"
+    },
+    {
+      "path": "assets/images/user/user8.png",
+      "sha1": "bbd64090f6f5cd1804c8ec5eea7134f62ba715e7"
+    },
+    {
+      "path": "assets/images/user/user9.png",
+      "sha1": "f4915597cc211dc084a5dd1c15284a0f6f63f2c3"
+    },
+    {
+      "path": "assets/images/vehicle/vehicle1.png",
+      "sha1": "70d23fa35cd3116bbb17a52c54169fd4df588cdd"
+    },
+    {
+      "path": "assets/images/vehicle/vehicle2.png",
+      "sha1": "ceef5a6a5691c2c84a8a3a264598c2f182a6ef48"
+    },
+    {
+      "path": "assets/images/wallet.png",
+      "sha1": "c214b238a6eeaa26317772b6d0e0bbc722b2db62"
+    }
+  ]
+}

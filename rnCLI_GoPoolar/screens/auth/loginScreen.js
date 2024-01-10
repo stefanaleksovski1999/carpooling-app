@@ -1,3 +1,4 @@
+
 import {
   ScrollView,
   StyleSheet,
@@ -7,6 +8,7 @@ import {
   Platform,
   TouchableOpacity,
   BackHandler,
+  Button
 } from "react-native";
 import React, { useState, useCallback } from "react";
 import {
@@ -16,6 +18,10 @@ import {
   CommonStyles,
   screenHeight,
 } from "../../constants/styles";
+import {
+  GoogleSignin,
+  statusCodes,
+} from '@react-native-google-signin/google-signin';
 import MyStatusBar from "../../components/myStatusBar";
 import IntlPhoneInput from "react-native-intl-phone-input";
 import { useFocusEffect } from "@react-navigation/native";
@@ -74,11 +80,29 @@ const LoginScreen = ({ navigation }) => {
     return (
       <View style={{ flex: 1 }}>
         {loginDescription()}
+        <Button title={'Sign in with Google'} onPress={() =>  {
+          GoogleSignin.configure({
+              androidClientId: '806871455563-jhk15uepvo4986t57jj9r4a18c9oetpa.apps.googleusercontent.com',
+              iosClientId: '806871455563-8nui7gcblh1s0js70hjkg2e5ctuaclf9.apps.googleusercontent.com',
+          });
+          GoogleSignin.hasPlayServices().then((hasPlayService) => {
+                  if (hasPlayService) {
+                      GoogleSignin.signIn().then((userInfo) => {
+                                console.log(JSON.stringify(userInfo))
+                      }).catch((e) => {
+                      console.log("ERROR IS: " + JSON.stringify(e));
+                      })
+                  }
+          }).catch((e) => {
+              console.log("ERROR IS: " + JSON.stringify(e));
+          })
+        }} />
         {mobileNumberInfo()}
         {loginButton()}
       </View>
     );
   }
+
 
   function loginButton() {
     return (
@@ -116,6 +140,8 @@ const LoginScreen = ({ navigation }) => {
       />
     );
   }
+
+
 
   function loginDescription() {
     return (

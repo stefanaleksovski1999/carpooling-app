@@ -7,7 +7,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-  [GMSServices provideAPIKey:@"YOUR GOOGLE MAP API KEY HERE"];
+  [GMSServices provideAPIKey:@"AIzaSyDIAVOcJHTF2p-lNnhX3FUK71hJ5WPReiA"];
   self.moduleName = @"rnCLI_GoPoolar";
   // You can add your custom initial props in the dictionary below.
   // They will be passed down to the ViewController used by React Native.

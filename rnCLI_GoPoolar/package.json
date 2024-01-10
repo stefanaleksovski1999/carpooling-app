@@ -1,5 +1,5 @@
 {
-  "name": "rnCLI_GoPoolar",
+  "name": "rn_cli_go_poolar",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,11 +10,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-google-signin/google-signin": "^11.0.0",
     "@react-navigation/bottom-tabs": "^6.5.8",
     "@react-navigation/native": "^6.1.7",
     "@react-navigation/stack": "^6.3.17",
     "@rneui/themed": "^4.0.0-rc.8",
     "expo": "^49.0.21",
+    "hermes-engine": "^0.8.0",
     "pod-install": "^0.1.39",
     "react": "18.2.0",
     "react-native": "0.72.4",

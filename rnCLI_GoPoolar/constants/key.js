@@ -1,5 +1,5 @@
 export const Key = {
-    apiKey: 'YOUR GOOGLE MAP API KEY HERE',
+    apiKey: 'AIzaSyDIAVOcJHTF2p-lNnhX3FUK71hJ5WPReiA',
 }
 
 export default Key;

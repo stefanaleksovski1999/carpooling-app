@@ -11,7 +11,6 @@
 		02BF3F96D7B642AC8926338A /* user7.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E4F67319BD342A49BF81B88 /* user7.png */; };
 		040656171C134FB3BEEAD08F /* user11.png in Resources */ = {isa = PBXBuildFile; fileRef = 600D141569BE4EC595A45B6F /* user11.png */; };
 		0B00B34061404AA38FD3A7DD /* credit_card.png in Resources */ = {isa = PBXBuildFile; fileRef = 8ECABE3F9B66428799B4E49D /* credit_card.png */; };
-		0C80B921A6F3F58F76C31292 /* libPods-rnCLI_GoPoolar.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-rnCLI_GoPoolar.a */; };
 		10536E796B044782AC5B6478 /* card_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = F0C633ABF687431B8EE12306 /* card_bg.png */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -34,7 +33,6 @@
 		6AB720113BE64660A3E13F8A /* app_color_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CBDB45204A64592A84E784A /* app_color_icon.png */; };
 		6E3929E8CAF448A38515C5B1 /* user14.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F4DE847828B44A8B59350FB /* user14.png */; };
 		734AE243D0B246669CC575F1 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3809A318E3A449BEABD8794B /* Montserrat-Bold.ttf */; };
-		7699B88040F8A987B510C191 /* libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a */; };
 		7E26DAC82ABAAECB00F6337A /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E26DAB52ABAAECB00F6337A /* Fontisto.ttf */; };
 		7E26DAC92ABAAECB00F6337A /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E26DAB62ABAAECB00F6337A /* Octicons.ttf */; };
 		7E26DACA2ABAAECB00F6337A /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E26DAB72ABAAECB00F6337A /* Feather.ttf */; };
@@ -54,11 +52,13 @@
 		7E26DAD82ABAAECB00F6337A /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E26DAC52ABAAECB00F6337A /* SimpleLineIcons.ttf */; };
 		7E26DAD92ABAAECB00F6337A /* FontAwesome6_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E26DAC62ABAAECB00F6337A /* FontAwesome6_Brands.ttf */; };
 		7E26DADA2ABAAECB00F6337A /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E26DAC72ABAAECB00F6337A /* MaterialIcons.ttf */; };
+		80B1C880BD29A5DA401F39E1 /* libPods-rnCLI_GoPoolar.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C9B2BD3DD7A652C0E42A8553 /* libPods-rnCLI_GoPoolar.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		84BA672AFAC14F0194A7542B /* user4.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F444A433E834017815D1886 /* user4.png */; };
 		84ED8129A6D64C819D89FE08 /* user8.png in Resources */ = {isa = PBXBuildFile; fileRef = 957C412D42C949B3A5D22E24 /* user8.png */; };
 		9B3FBAB7793547B290896D52 /* ride_end.png in Resources */ = {isa = PBXBuildFile; fileRef = FFBC11E3619B4B5AAE8606E8 /* ride_end.png */; };
 		A618AD402EBD43ADAB24CCB7 /* customer_support.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A3834E3B5024B9DB395B40B /* customer_support.png */; };
+		C075AC0614500BA16884F9A5 /* libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EEF15BA49ABE930330C35EAD /* libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a */; };
 		C78DAA13032047158D3CE8FF /* user15.png in Resources */ = {isa = PBXBuildFile; fileRef = B0F629DB2FA74A16A5E95C91 /* user15.png */; };
 		CAB8C6D4A682451CA903F364 /* google_pay.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC52B1752E24DF883379A94 /* google_pay.png */; };
 		CD5D0B1F381648F6BF7F9ED7 /* rating.png in Resources */ = {isa = PBXBuildFile; fileRef = 501082D6B2CD4D4EAEE64497 /* rating.png */; };
@@ -105,13 +105,13 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = rnCLI_GoPoolar/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = rnCLI_GoPoolar/main.m; sourceTree = "<group>"; };
 		1584E97454A240B6B9BFF9EA /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Medium.ttf"; path = "../assets/fonts/Montserrat-Medium.ttf"; sourceTree = "<group>"; };
-		19F6CBCC0A4E27FBF8BF4A61 /* libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E5CFD2A64434466A8CB8280 /* auth.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = auth.png; path = ../assets/images/auth.png; sourceTree = "<group>"; };
 		26EA7169480E427BBAAB5757 /* user3.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = user3.png; path = ../assets/images/user/user3.png; sourceTree = "<group>"; };
 		31EE935313C643CC826A3E71 /* onboarding1.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = onboarding1.png; path = ../assets/images/onboarding/onboarding1.png; sourceTree = "<group>"; };
 		3809A318E3A449BEABD8794B /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Bold.ttf"; path = "../assets/fonts/Montserrat-Bold.ttf"; sourceTree = "<group>"; };
 		3A3834E3B5024B9DB395B40B /* customer_support.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = customer_support.png; path = ../assets/images/customer_support.png; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-rnCLI_GoPoolar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnCLI_GoPoolar.debug.xcconfig"; path = "Target Support Files/Pods-rnCLI_GoPoolar/Pods-rnCLI_GoPoolar.debug.xcconfig"; sourceTree = "<group>"; };
+		420890B5AA41DF2886B17F5E /* Pods-rnCLI_GoPoolarTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnCLI_GoPoolarTests.debug.xcconfig"; path = "Target Support Files/Pods-rnCLI_GoPoolarTests/Pods-rnCLI_GoPoolarTests.debug.xcconfig"; sourceTree = "<group>"; };
 		4E046A97B03D4BB2A618ACE9 /* onboarding2.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = onboarding2.png; path = ../assets/images/onboarding/onboarding2.png; sourceTree = "<group>"; };
 		4EFB4687C03341A1ABF5FA6F /* user1.jpeg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = user1.jpeg; path = ../assets/images/user/user1.jpeg; sourceTree = "<group>"; };
 		501082D6B2CD4D4EAEE64497 /* rating.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = rating.png; path = ../assets/images/rating.png; sourceTree = "<group>"; };
@@ -119,8 +119,8 @@
 		5709B34CF0A7D63546082F79 /* Pods-rnCLI_GoPoolar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnCLI_GoPoolar.release.xcconfig"; path = "Target Support Files/Pods-rnCLI_GoPoolar/Pods-rnCLI_GoPoolar.release.xcconfig"; sourceTree = "<group>"; };
 		589B705EC5684CD4823F6F2A /* user10.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = user10.png; path = ../assets/images/user/user10.png; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.debug.xcconfig"; path = "Target Support Files/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.debug.xcconfig"; sourceTree = "<group>"; };
-		5DCACB8F33CDC322A6C60F78 /* libPods-rnCLI_GoPoolar.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnCLI_GoPoolar.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		600D141569BE4EC595A45B6F /* user11.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = user11.png; path = ../assets/images/user/user11.png; sourceTree = "<group>"; };
+		6F1C5B91B33C9BBF82540DF6 /* Pods-rnCLI_GoPoolarTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnCLI_GoPoolarTests.release.xcconfig"; path = "Target Support Files/Pods-rnCLI_GoPoolarTests/Pods-rnCLI_GoPoolarTests.release.xcconfig"; sourceTree = "<group>"; };
 		6F4DE847828B44A8B59350FB /* user14.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = user14.png; path = ../assets/images/user/user14.png; sourceTree = "<group>"; };
 		77E4A8798E5E4725BB39B50E /* user13.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = user13.png; path = ../assets/images/user/user13.png; sourceTree = "<group>"; };
 		7AAE5A5776FB4AF6AB077272 /* success.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = success.png; path = ../assets/images/icons/success.png; sourceTree = "<group>"; };
@@ -156,6 +156,7 @@
 		C4BAA0D9A44C4A00B40309C6 /* user12.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = user12.png; path = ../assets/images/user/user12.png; sourceTree = "<group>"; };
 		C6004E7E94F947AF99BA506B /* empty_noty.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = empty_noty.png; path = ../assets/images/icons/empty_noty.png; sourceTree = "<group>"; };
 		C6D65C22A1774D18AC00ED23 /* user17.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = user17.png; path = ../assets/images/user/user17.png; sourceTree = "<group>"; };
+		C9B2BD3DD7A652C0E42A8553 /* libPods-rnCLI_GoPoolar.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnCLI_GoPoolar.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF59DF7C6E8444E7BCAD894E /* user16.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = user16.png; path = ../assets/images/user/user16.png; sourceTree = "<group>"; };
 		D477DDE50C234583B167CDAC /* visa.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = visa.png; path = ../assets/images/payment/visa.png; sourceTree = "<group>"; };
 		D82A012538EC4B8AB1BCC5A3 /* user6.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = user6.png; path = ../assets/images/user/user6.png; sourceTree = "<group>"; };
@@ -163,6 +164,7 @@
 		DE1E666EC1CE4ADF8D75DC89 /* paypal.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = paypal.png; path = ../assets/images/payment/paypal.png; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		EDC52B1752E24DF883379A94 /* google_pay.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = google_pay.png; path = ../assets/images/payment/google_pay.png; sourceTree = "<group>"; };
+		EEF15BA49ABE930330C35EAD /* libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFF362FEC8EE4652BE8FB8BE /* onboarding3.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = onboarding3.png; path = ../assets/images/onboarding/onboarding3.png; sourceTree = "<group>"; };
 		F0C633ABF687431B8EE12306 /* card_bg.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = card_bg.png; path = ../assets/images/card_bg.png; sourceTree = "<group>"; };
 		F2DE624C0DFC408AB681A711 /* empty_ride.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = empty_ride.png; path = ../assets/images/empty_ride.png; sourceTree = "<group>"; };
@@ -175,7 +177,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7699B88040F8A987B510C191 /* libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a in Frameworks */,
+				C075AC0614500BA16884F9A5 /* libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -183,7 +185,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C80B921A6F3F58F76C31292 /* libPods-rnCLI_GoPoolar.a in Frameworks */,
+				80B1C880BD29A5DA401F39E1 /* libPods-rnCLI_GoPoolar.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,8 +227,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-rnCLI_GoPoolar.a */,
-				19F6CBCC0A4E27FBF8BF4A61 /* libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a */,
+				C9B2BD3DD7A652C0E42A8553 /* libPods-rnCLI_GoPoolar.a */,
+				EEF15BA49ABE930330C35EAD /* libPods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -347,6 +349,8 @@
 				5709B34CF0A7D63546082F79 /* Pods-rnCLI_GoPoolar.release.xcconfig */,
 				5B7EB9410499542E8C5724F5 /* Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.debug.xcconfig */,
 				89C6BE57DB24E9ADA2F236DE /* Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests.release.xcconfig */,
+				420890B5AA41DF2886B17F5E /* Pods-rnCLI_GoPoolarTests.debug.xcconfig */,
+				6F1C5B91B33C9BBF82540DF6 /* Pods-rnCLI_GoPoolarTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -362,8 +366,8 @@
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */,
-				F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */,
+				EC8FB8AD0F22E6265CD7571E /* [CP] Embed Pods Frameworks */,
+				63B3B05582FBABD6FB7366AC /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -385,8 +389,8 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */,
-				E235C05ADACE081382539298 /* [CP] Copy Pods Resources */,
+				4900483378C22540230BCB80 /* [CP] Embed Pods Frameworks */,
+				2A33DEC1EC4A0F92EF6FC9FB /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -531,7 +535,24 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
+		2A33DEC1EC4A0F92EF6FC9FB /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar/Pods-rnCLI_GoPoolar-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar/Pods-rnCLI_GoPoolar-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar/Pods-rnCLI_GoPoolar-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4900483378C22540230BCB80 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -541,10 +562,28 @@
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar/Pods-rnCLI_GoPoolar-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar/Pods-rnCLI_GoPoolar-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		63B3B05582FBABD6FB7366AC /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */ = {
@@ -591,7 +630,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */ = {
+		EC8FB8AD0F22E6265CD7571E /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -606,39 +645,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar/Pods-rnCLI_GoPoolar-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar/Pods-rnCLI_GoPoolar-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests/Pods-rnCLI_GoPoolar-rnCLI_GoPoolarTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
